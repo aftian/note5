@@ -1,3 +1,9 @@
+note5 (0.7) suorboyo; urgency=low
+
+  * note.desktop Section TextEditor
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 08 Oct 2013 13:14:58 +0000
+
 note5 (0.6) suroboyo; urgency=low
 
   * debian/control section editor
