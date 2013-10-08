@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Note5
+Comment=HTML5 Plain Text Editor
+Exec=html5app /usr/share/note5/
+Icon=
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Game;LogicGame;
+StartupNotify=true
