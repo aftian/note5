@@ -1,3 +1,9 @@
+note5 (0.6) suroboyo; urgency=low
+
+  * debian/control section editor
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 08 Oct 2013 19:14:54 +0700
+
 note5 (0.5) suroboyo; urgency=low
 
   * Change: index.html custom theme
