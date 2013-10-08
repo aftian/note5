@@ -1,5 +1,5 @@
 index.html /usr/share/note5
 assets /usr/share/note5
 README.md /usr/share/doc/note5
-
+debian/note5.svg /usr/share/pixmaps
 debian/note5.desktop /usr/share/applications
